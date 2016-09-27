@@ -122,5 +122,9 @@ int main()
     m.Display();
     m.BruteSolve();
 
+    getchar();
+    getchar();
+    getchar();
+
     return 0;
 }
